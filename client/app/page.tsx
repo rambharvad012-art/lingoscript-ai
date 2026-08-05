@@ -4,8 +4,9 @@ import Hero from "../components/Hero";
 export default function HomePage() {
   return (
     <>
-      <Navbar />
+        <Navbar />
   <Hero />
+  <FeatureCards />
 </>
 
       <main className="min-h-screen bg-black text-white flex flex-col items-center justify-center px-6">
