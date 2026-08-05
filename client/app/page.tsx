@@ -5,6 +5,8 @@ export default function HomePage() {
   return (
     <>
       <Navbar />
+  <Hero />
+</>
 
       <main className="min-h-screen bg-black text-white flex flex-col items-center justify-center px-6">
         <h1 className="text-5xl font-bold text-cyan-400">
