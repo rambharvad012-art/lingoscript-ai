@@ -17,7 +17,7 @@ export default function UploadSection() {
   };
 
   return (
-    <section className="bg-neutral-950 px-6 py-20 text-white">
+    <section id="upload" className="bg-neutral-950 px-6 py-20 text-white">
       <div className="mx-auto max-w-4xl rounded-3xl border-2 border-dashed border-cyan-500 p-12 text-center">
 
         <h2 className="text-4xl font-bold text-cyan-400">
