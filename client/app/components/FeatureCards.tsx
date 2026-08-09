@@ -33,7 +33,7 @@ export default function FeatureCards() {
   ];
 
   return (
-    <section className="bg-black px-6 py-20 text-white">
+    <section id="features" className="bg-black px-6 py-20 text-white">
       <h2 className="mb-12 text-center text-4xl font-bold text-cyan-400">
         Powerful AI Features
       </h2>
